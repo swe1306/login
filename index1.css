@@ -1,0 +1,88 @@
+body{
+    font-family: sans-serif;
+    background-color: rgba(250, 235, 215, 0.558);
+    width: 100%;
+}
+.box{
+    width: 50%;
+    background-position: center 50%;
+    background-color:rgb(216, 237, 235);
+    padding: 40px 0px 30px 20px; 
+    box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.29);
+    background-position: center ;
+    margin:50px 350px;
+   
+}
+.box user{
+    float: left;
+    
+    margin-right:0px;
+}
+#email{
+    border-radius: 3px;
+    border: 1px solid grey;
+    height: 40px;
+    width: 300px;
+    margin: 10px;
+}
+#pwd{
+    border-radius: 3px;
+    border: 1px solid grey;
+    height: 40px;
+    width: 300px;
+    margin: 10px;
+}
+#log{
+    border-radius: 3px;
+    border: 1px solid grey;
+    color: white;
+    background-color: rgb(71, 71, 228);
+    height: 35px;
+    width: 70px;
+    margin-left: 105px;
+}
+#fb{
+    border-radius: 3px;
+    background-color: rgb(34, 34, 151);
+    color: white;
+    height: 40px;
+    width: 303px;
+    margin: 20px 5px 10px px;
+    position: relative;
+    right: 5px;
+}
+#twt{
+    border-radius: 3px;
+    background-color: rgb(10, 190, 255);
+    color: white;
+    height: 40px;
+    width: 303px;
+    margin: 10px;
+    position: relative;
+    right: 15px;
+}
+#goo{
+    border-radius: 3px;
+    background-color: rgb(246, 80, 8);
+    color: white;
+    height: 40px;
+    width: 303px;
+    margin: 10px;
+    position: relative;
+    right: 15px;
+}
+#rem{
+    margin: 20px 33px 20px 05px;
+}
+#reg{
+    margin: 40px 30px 30px 37px;
+    font-size: 12px;
+    text-decoration-line: none;
+    color: rgb(48, 160, 235);
+}
+#forg{
+    margin: 80px 25px 30px 103px;
+    font-size: 12px;
+    text-decoration-line: none;
+    color: grey;
+}
